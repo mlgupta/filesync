@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jxta-group-config>
+        <jxta-group-property
+                group_login="SecurePeerGroups"
+                group_password="RULE"
+                group_name="FileSync"
+                group_id="urn:jxta:uuid-46696C6553794E6380008002"
+                module_specs_id="urn:jxta:uuid-26A8AB780B2440E69ECEF42F5F643C0C549607DA3C264B918B9EF080F3E9461406"
+        />
+	<jxta-rdv address="" />
+	<jxta-relay address="" />
+</jxta-group-config>

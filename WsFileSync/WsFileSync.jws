@@ -1,0 +1,37 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<jws:workspace xmlns:jws="http://xmlns.oracle.com/ide/project">
+   <hash n="component-versions">
+      <value n="oracle.ide.model.Project" v="10.1.3.0.3"/>
+   </hash>
+   <list n="listOfChildren">
+      <hash>
+         <value n="nodeClass" v="oracle.ide.model.Project"/>
+         <url n="URL" path="PrjFileSyncClient/PrjFileSyncClient.jpr"/>
+      </hash>
+      <hash>
+         <value n="nodeClass" v="oracle.ide.model.Project"/>
+         <url n="URL" path="PrjFileSyncCommon/PrjFileSyncCommon.jpr"/>
+      </hash>
+      <hash>
+         <value n="nodeClass" v="oracle.ide.model.Project"/>
+         <url n="URL" path="PrjFileSyncPlugins/PrjFileSyncPlugins.jpr"/>
+      </hash>
+      <hash>
+         <value n="nodeClass" v="oracle.ide.model.Project"/>
+         <url n="URL" path="PrjFileSyncServer/PrjFileSyncServer.jpr"/>
+      </hash>
+      <hash>
+         <value n="nodeClass" v="oracle.ide.model.Project"/>
+         <url n="URL" path="PrjFileSyncSpecs/PrjFileSyncSpecs.jpr"/>
+      </hash>
+      <hash>
+         <value n="nodeClass" v="oracle.ide.model.Project"/>
+         <url n="URL" path="PrjJxtaIDGenerator/PrjJxtaIDGenerator.jpr"/>
+      </hash>
+      <hash>
+         <value n="nodeClass" v="oracle.ide.model.Project"/>
+         <url n="URL" path="PrjFileSyncClientGui/PrjFileSyncClientGui.jpr"/>
+      </hash>
+   </list>
+   <value n="packageCounter" v="7"/>
+</jws:workspace>

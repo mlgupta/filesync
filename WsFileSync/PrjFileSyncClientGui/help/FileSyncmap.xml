@@ -1,0 +1,28 @@
+<?xml version='1.0' ?>
+
+<map version="1.0">
+
+<mapID target="aboutDBSFileSync_html" url="AboutDBSFileSync.html"/>
+<mapID target="aboutfilesync_html" url="AboutFileSync.html"/>
+<mapID target="aboutjxta_html" url="AboutJXTA.html"/>
+<mapID target="viewremoteandlocalbrowser_html" url="ViewRemoteandLocalBrowser.html"/>
+<mapID target="viewtree_html" url="ViewTree.html"/>
+<mapID target="viewbrowser_html" url="ViewBrowser.html"/>
+<mapID target="changingpreferences_html" url="ChangingPreferences.html"/>
+<mapID target="connectserver_html" url="ConnectServer.html"/>
+<mapID target="disconnectserver_html" url="DisconnectServer.html"/>
+<mapID target="fsfilesynctools_html" url="FsFileSyncTools.html"/>
+<mapID target="copyandmovinghtml_html" url="CopyandMovinghtml.html"/>
+<mapID target="creatingnewFolder_html" url="CreatingNewFolder.html"/>
+<mapID target="downloadingfrmremote_html" url="DownloadingfrmRemote.html"/>
+<mapID target="manipulatingprofile_html" url="ManipulatingProfile.html"/>
+<mapID target="navigfolder_html" url="NavigFolder.html"/>
+<mapID target="renamingfolder_html" url="RenamingFolder.html"/>
+<mapID target="uploadingdoc_html" url="UploadingDoc.html"/>
+<mapID target="propertiesdoc_html" url="PropertiesDoc.html"/>
+<mapID target="synchronizeserver_html" url="Synchronizeserver.html"/>
+<mapID target="profilecreation_html" url="ProfileCreation.html"/>
+<mapID target="performingsynchronization_html" url="PerformingSynchronization.html"/>
+</map>
+
+ 

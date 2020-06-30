@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 1.0//EN" "http://java.sun.com/products/javahelp/index_1_0.dtd">
+<index version="1.0">
+ <indexitem text="About DBSentry FileSync" target="aboutfilesync_html" />
+  <indexitem text="Arranging Browsers" target="viewbrowser_html" />
+  <indexitem text="Changing" target="changingpreferences_html" >
+  <indexitem text="JXTA Preferences" target="changingpreferences_html" />
+  <indexitem text="Socket address,Rendezvous" target="changingpreferences_html" />
+ </indexitem>
+ <indexitem text="Creating" target="creatingnewfolder_html" >
+   <indexitem text="New Folder" target="creatingnewfolder_html" />
+ </indexitem>
+ <indexitem text="DBSentry  File Synchronizer" target="aboutfilesync_html" />
+  <indexitem text="DBSentry FileSync:About FsFileSync" target="aboutfilesync_html" />
+  <indexitem text="DBSentry FileSync:DBSentry FileSync Logo" target="aboutdbsfilesync_html" />
+  <indexitem text="Delete:General Tool On FsFileSync" target="fsfilesynctools_html" />
+  <indexitem text="Delete:Manipulating existing profile" target="manipulatingprofile_html" >
+  <indexitem text="Documents/Folders" target="fsfilesynctools_html" />
+ </indexitem>
+ <indexitem text="Disconnecting from server" target="disconnectserver_html" />
+  <indexitem text="Documents/Folders" target="fsfilesynctools_html" >
+  <indexitem text="Deleting" target="fsfilesynctools_html" />
+  <indexitem text="Downloading" target="downloadingfrmremote_html" />
+  <indexitem text="moving" target="fsfilesynctools_html" />
+ </indexitem>
+ <indexitem text="Edit Profile" target="manipulatingprofile_html" />
+  <indexitem text="FileSync:About FsFileSync" target="aboutfilesync_html" />
+  <indexitem text="FileSync:View Local and Remote Tree" target="viewtree_html" />
+  <indexitem text="FileSync:Visual preferences" target="viewbrowser_html" />
+  <indexitem text="FileSync For Professionals" target="aboutfilesync_html" />
+  <indexitem text="Firewalls" target="aboutjxta_html" />
+  <indexitem text="Folders" target="fsfilesynctools_html" />
+  <indexitem text="General Tools For FileSync" target="fsfilesynctools_html" />
+  <indexitem text="HTTP" target="aboutjxta_html" />
+  <indexitem text="Incompatibilities" target="aboutjxta_html" />
+  <indexitem text="Initiating" target="synchronizeserver_html" >
+  <indexitem text="synchronization" target="synchronizeserver_html" />
+ </indexitem>
+ <indexitem text="Interoperability" target="aboutjxta_html" />
+  <indexitem text="JXTA:About FsFileSync" target="aboutfilesync_html" />
+  <indexitem text="JXTA:What is JXTA" target="aboutjxta_html" />
+  <indexitem text="JXTA P2P" target="aboutfilesync_html" />
+  <indexitem text="Jxta Preferences" target="changingpreferences_html" />
+  <indexitem text="Local-&gt;Properties" target="propertiesdoc_html" />
+  <indexitem text="Local Tree" target="viewtree_html" />
+  <indexitem text="Login" target="connectserver_html" />
+  <indexitem text="Manipulating" target="manipulatingprofile_html" >
+  <indexitem text="Existing Profile" target="manipulatingprofile_html" />
+ </indexitem>
+ <indexitem text="Moving:Copying and Moving the Folders" target="copyandmovinghtml_html" />
+  <indexitem text="Moving:General Tool On FsFileSync" target="fsfilesynctools_html" />
+  <indexitem text="Moving:Navigation Tool" target="navigfolder_html" >
+  <indexitem text="Documents/Folders:Copying and Moving the Folders" target="copyandmovinghtml_html" />
+  <indexitem text="Documents/Folders:General Tool On FsFileSync" target="fsfilesynctools_html" />
+  <indexitem text="Forward" target="navigfolder_html" />
+ </indexitem>
+ <indexitem text="NATs" target="aboutjxta_html" />
+  <indexitem text="Navigating" target="navigfolder_html" >
+  <indexitem text="through Folders" target="navigfolder_html" />
+ </indexitem>
+ <indexitem text="Oracle's CMSDK" target="aboutfilesync_html" />
+  <indexitem text="P2P" target="aboutjxta_html" />
+  <indexitem text="PCs" target="aboutjxta_html" >
+  <indexitem text="PDAs" target="aboutjxta_html" />
+ </indexitem>
+ <indexitem text="Preferences" target="changingpreferences_html" />
+  <indexitem text="Profile" target="profilecreation_html" />
+  <indexitem text="Profile Creation" target="profilecreation_html" >
+  <indexitem text="Synchronization" target="profilecreation_html" />
+ </indexitem>
+ <indexitem text="Profile Panel" target="synchronizeserver_html" />
+  <indexitem text="Properties" target="propertiesdoc_html" >
+  <indexitem text="Viewing" target="propertiesdoc_html" />
+ </indexitem>
+ <indexitem text="Refresh" target="performingsynchronization_html" />
+  <indexitem text="Remote-&gt;Copy" target="copyandmovinghtml_html" />
+  <indexitem text="Remote-&gt;Cut" target="copyandmovinghtml_html" />
+  <indexitem text="Remote-&gt;Download" target="downloadingfrmremote_html" />
+  <indexitem text="Remote-&gt;Properties" target="propertiesdoc_html" />
+  <indexitem text="Remote Server" target="connectserver_html" >
+  <indexitem text="Connecting" target="connectserver_html" />
+ </indexitem>
+ <indexitem text="Remote Tree" target="viewtree_html" />
+  <indexitem text="Renaming:General Tool On FsFileSync" target="fsfilesynctools_html" />
+  <indexitem text="Renaming:Property Page view" target="propertiesdoc_html" />
+  <indexitem text="Renaming:Renaming Folder" target="renamingfolder_html" >
+  <indexitem text="Document/Folder:General Tool On FsFileSync" target="fsfilesynctools_html" />
+  <indexitem text="Document/Folder:Renaming Folder" target="renamingfolder_html" />
+ </indexitem>
+ <indexitem text="Rendezvous" target="changingpreferences_html" />
+  <indexitem text="Run" target="performingsynchronization_html" />
+  <indexitem text="Samhita Document Management System" target="aboutfilesync_html" />
+  <indexitem text="Select File-&gt;Preferences menu" target="changingpreferences_html" />
+  <indexitem text="Select View-&gt;Local Tree menu" target="viewtree_html" />
+  <indexitem text="Select View-&gt;Remote Browser menu" target="viewremoteandlocalbrowser_html" />
+  <indexitem text="Select View-&gt;Remote Tree menu:View Local and Remote Browser" target="viewremoteandlocalbrowser_html" />
+  <indexitem text="Select View-&gt;Remote Tree menu:View Local and Remote Tree" target="viewtree_html" />
+  <indexitem text="Select View-&gt;Tile Horizontally menu" target="viewbrowser_html" />
+  <indexitem text="Select View-&gt;Tile Vertically menu" target="viewbrowser_html" />
+  <indexitem text="Stop" target="performingsynchronization_html" >
+  <indexitem text="synchronization" target="performingsynchronization_html" />
+ </indexitem>
+ <indexitem text="Sync" target="performingsynchronization_html" />
+  <indexitem text="Sync Profile:How to Synchronize with Remote Server" target="synchronizeserver_html" />
+  <indexitem text="Sync Profile:Manipulating existing profile" target="manipulatingprofile_html" />
+  <indexitem text="Sync Profile:Profile Creation for Synchronization" target="profilecreation_html" />
+  <indexitem text="Synchronization:Manipulating existing profile" target="manipulatingprofile_html" />
+  <indexitem text="Synchronization:Profile Creation for Synchronization" target="profilecreation_html" >
+  <indexitem text="Profile Creation" target="profilecreation_html" />
+ </indexitem>
+ <indexitem text="Synchronize:How to Synchronize with Remote Server" target="synchronizeserver_html" />
+  <indexitem text="Synchronize:Performing Synchronization." target="performingsynchronization_html" >
+  <indexitem text="perticular file" target="performingsynchronization_html" />
+ </indexitem>
+ <indexitem text="TCP/IP" target="aboutjxta_html" />
+  <indexitem text="Tile Horizontally" target="viewbrowser_html" />
+  <indexitem text="Tile Vertically" target="viewbrowser_html" />
+  <indexitem text="TLS" target="aboutjxta_html" />
+  <indexitem text="Transport Layer Security" target="aboutjxta_html" />
+  <indexitem text="Uploading" target="uploadingdoc_html" >
+  <indexitem text="Documents/Folders" target="uploadingdoc_html" />
+ </indexitem>
+ <indexitem text="Validating" target="connectserver_html" >
+  <indexitem text="userid" target="connectserver_html" />
+ </indexitem>
+ <indexitem text="View Local Browser" target="viewremoteandlocalbrowser_html" />
+  <indexitem text="View Local Tree" target="viewtree_html" />
+  <indexitem text="View Remote Browser" target="viewremoteandlocalbrowser_html" />
+  <indexitem text="View Remote Tree" target="viewtree_html" />
+  <indexitem text="Viewing" target="propertiesdoc_html" >
+  <indexitem text="properties" target="propertiesdoc_html" />
+ </indexitem>
+ <indexitem text="Visual preferences" target="viewbrowser_html" />
+ <indexitem text="XML" target="aboutjxta_html" />
+</index>

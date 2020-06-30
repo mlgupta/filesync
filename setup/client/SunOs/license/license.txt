@@ -1,0 +1,17 @@
+GRANT OF LICENSE
+For DBSentry FileSynchronizer, DBSentry grants you, pursuant to the terms and conditions of this Agreement, a perpetual, worldwide, non-exclusive, non-transferable, license to install and use the Software solely for your own internal business use.
+You do not obtain title to DBSentry FileSynchronizer or any intellectual property rights to DBSentry FileSynchronizer. Title, ownership rights and intellectual property rights in and to DBSentry FileSynchronizer shall remain the property of DBSentry.
+Under this Agreement you may, subject to other terms and conditions of this Agreement, use DBSentry FileSynchronizer as follows:
+� install and use one (1) copy of DBSentry FileSynchronizer on computers with predetermined CPUs, provided however, that you indicate the hostname of your referred computer in the installed DBSentry FileSynchronizer;
+� make one copy of DBSentry FileSynchronizer solely for escrow purposes;
+� you may allow subsidiaries, parent, or other Affiliates access to and use of the samhita, provided, however, that if your subsidiaries, parent or other Affiliates access and use the samhita, they shall each be bound by the terms and conditions and restrictions of this Agreement.
+� transfer your copy of DBSentry FileSynchronizer to another computers, provided that
+1. you inform DBSentry by E-mail of such transfer prior to its occurrence and
+2. the number of installed or used copies of DBSentry FileSynchronizer never exceeds the number of valid licenses for DBSentry FileSynchronizer held by you.
+Under this Agreement you shall not:
+� sub-license, rent, lease, copy, convey, modify, translate, transfer to a computer belonging to a third party, convert to another programming language, reverse-engineer, decompile or disassemble DBSentry FileSynchronizer or any part of it for any purpose;
+� use documentation related to DBSentry FileSynchronizer for any purpose other than to support your use of DBSentry FileSynchronizer;
+� remove any copyright or trademark notices, or any other proprietary legends from DBSentry FileSynchronizer;
+� attempt to reverse engineer or decompile code of DBSentry FileSynchronizer;
+� transfer your rights under this Agreement to a third party.
+� use Third Party Components, licensed as part of or for use with the DBSentry FileSynchronizer under this Agreement, as a separate, stand-alone product, and shall only use it in conjunction with the DBSentry FileSynchronizer licensed hereunder for the sole purposes set forth herein.

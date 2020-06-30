@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SERVER-CONFIG>
+<CMSDK IfsService="IfsDefaultService" 
+	IfsSchemaPassword="cmsdk" 
+	ServiceConfiguration="SmallServiceConfiguration" 
+	Domain="ifs://user1.dbsentry.com:1521:cmsdk:CMSDK" />
+
+<CMSDK1 IfsService="IfsDefaultService" 
+	IfsSchemaPassword="cmsdk10g" 
+	ServiceConfiguration="SmallServiceConfiguration" 
+	Domain="ifs://user11.dbsentry.com:1521:cmsdk10g:CMSDK10G" />
+
+<CMSDK1 IfsService="IfsDefaultService" 
+	IfsSchemaPassword="cmsdk" 
+	ServiceConfiguration="SmallServiceConfiguration" 
+	Domain="ifs://astronomix.dbsentry.com:1521:cmsdk10g:CMSDK" />
+
+</SERVER-CONFIG>
+

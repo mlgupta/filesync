@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FILESYSTEM>
+<FS name="SAMHITA" plugin="dbsentry.plugin.cmsdk.CmsdkConnectionFactory" >
+<PARAM value="IfsDefaultService"/>
+<PARAM value="cmsdk"/>
+<PARAM value="SmallServiceConfiguration"/>
+<PARAM value="ifs://user1.dbsentry.com:1521:cmsdk:CMSDK"/>
+</FS>
+</FILESYSTEM>

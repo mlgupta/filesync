@@ -1,0 +1,87 @@
+body {
+	background-color: #FFFFFF;
+	margin:0;
+	background-image:url(images/help_corner.jpg);
+	background-repeat:no-repeat;
+}
+.bgColor7F7F7F {
+	background-color:#7F7F7F;
+}
+
+/***** Borders Below******************************************/
+.border1px000066 {
+	border: 1px solid #000066;
+}
+.bdrLeftColor_000066 {
+	border-left:1px solid #000066;
+}
+.bdrTopColor_000066 {
+	border-top:1px solid #000066;
+}
+.bdrRightColor_000066 {
+	border-right:1px solid #000066;
+}
+.bdrBottomColor_000066 {
+	border-bottom:1px solid #000066;
+}
+
+/***** Text Styles Below************************************/
+.textData {
+	font-family:  Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-align: justify;
+	list-style-type: disc;
+	line-height:1.5;
+}
+.textCopyRight {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #999999;
+}
+
+.textBold_16_663399 {	
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #663399;
+}
+.textBold_12_663399 {	
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #663399;
+}
+
+
+
+/***** Link Styles Below*******************************************************************/
+
+A.textLinkPurple:link {
+	FONT-WEIGHT: normal;FONT-SIZE: 12px;TEXT-DECORATION: none;font-family: Arial, Helvetica, sans-serif;color: #663399;
+}
+A.textLinkPurple:visited {
+		FONT-WEIGHT: normal;FONT-SIZE: 12px;TEXT-DECORATION: none;font-family: Arial, Helvetica, sans-serif;color: #663399;
+}
+A.textLinkPurple:hover {
+		FONT-WEIGHT: normal;FONT-SIZE: 12px;TEXT-DECORATION: underline;font-family: Arial, Helvetica, sans-serif;color: #663399;
+}
+A.textLinkPurple:active {
+		FONT-WEIGHT: normal;FONT-SIZE: 12px;TEXT-DECORATION: none;font-family: Arial, Helvetica, sans-serif;color: #663399;
+}
+
+/*********/
+A.textLinkCopyright:link {
+	FONT-WEIGHT: normal;FONT-SIZE: 10px;TEXT-DECORATION: none;font-family: Helvetica, Arial, sans-serif;color: #999999;
+}
+A.textLinkCopyright:visited {
+		FONT-WEIGHT: normal;FONT-SIZE: 10px;TEXT-DECORATION: none;font-family: Helvetica, Arial, sans-serif;color: #999999;
+}
+A.textLinkCopyright:hover {
+		FONT-WEIGHT: normal;FONT-SIZE: 10px;TEXT-DECORATION: underline;font-family: Helvetica,Arial,  sans-serif;color: #666666;
+}
+A.textLinkCopyright:active {
+		FONT-WEIGHT: normal;FONT-SIZE: 10px;TEXT-DECORATION: none;font-family: Helvetica, Arial, sans-serif;color: #999999;
+}

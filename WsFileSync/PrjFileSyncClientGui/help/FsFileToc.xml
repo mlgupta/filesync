@@ -1,0 +1,51 @@
+<?xml version='1.0' ?>
+<toc version="1.0">
+
+<!-- commenting out JDev TOC levels -->
+<!--
+ <tocitem text="Working with Application Design Tools">
+  <tocitem text="Extending JDeveloper">
+   <tocitem text="Developing Help With Oracle Help for Java">
+-->
+<tocitem text="Getting Started with DBSentry FileSync" target="aboutDBSFileSync_html">
+  <tocitem text="About DBSentry FileSync" target="aboutfilesync_html"/>
+  <tocitem text="What is JXTA?" target="aboutjxta_html"/>
+</tocitem>
+ 
+<tocitem text="Working with Preferences ">
+  <tocitem text="Visual Preferences"> 
+  <tocitem text="Browser Style" target="viewremoteandlocalbrowser_html"/>
+  <tocitem text="Tree view" target="viewtree_html"/>
+  <tocitem text="Viewing window Style" target="viewbrowser_html"/>
+  </tocitem> 
+  <tocitem text="JXTA Preferences" target="changingpreferences_html"/>
+</tocitem>
+
+<tocitem text="Connecting and Disconnecting FileSync">
+  <tocitem text="Connecting to Remote File Server" target="connectserver_html"/>
+  <tocitem text="Disconnecting from Remote File Server" target="disconnectserver_html"/> 
+</tocitem>
+
+<tocitem text="General Tools Of FileSync" target="fsfilesynctools_html">
+  <tocitem text="Copying And Moving the Document/Folder" target="copyandmovinghtml_html"/>
+  <tocitem text="Creating New Folder" target="creatingnewfolder_html"/>
+  <tocitem text="Downloading from Remote Server" target="downloadingfrmremote_html"/>
+  <tocitem text="Navigation Tools" target="navigfolder_html"/>
+  <tocitem text="Renaming The Folder" target="renamingfolder_html"/>
+  <tocitem text="Uploading to Remote Server" target="uploadingdoc_html"/>
+  <tocitem text="Viewing Properties of Document/Folder" target="propertiesdoc_html"/>
+</tocitem>
+
+<tocitem text="File Syncronizer">
+  <tocitem text="How to Synchronize with the Remote Server" target="synchronizeserver_html"/>
+  <tocitem text="Profile Creation for Synchronization" target="profilecreation_html"/>
+  <tocitem text="Manipulating A Profile" target="manipulatingprofile_html"/>	
+  <tocitem text="Performing Synchronization" target="performingsynchronization_html"/>
+</tocitem>
+
+<!--
+ </tocitem>
+ </tocitem>
+ </tocitem>
+-->
+</toc>     

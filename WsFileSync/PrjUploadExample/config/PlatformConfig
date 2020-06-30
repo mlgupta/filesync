@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE jxta:CP>
+<jxta:CP type="jxta:PlatformConfig" xmlns:jxta="http://jxta.org">
+	<Name>
+		jxtaclient
+	</Name>
+	<Desc>
+		Platform Config Advertisement created by : net.jxta.impl.peergroup.DefaultConfigurator
+	</Desc>
+	<Svc>
+		<MCID>
+			urn:jxta:uuid-DEADBEEFDEAFBABAFEEDBABE0000000A05
+		</MCID>
+		<Parm>
+			<jxta:TransportAdvertisement xmlns:jxta="http://jxta.org" type="jxta:HTTPTransportAdvertisement">
+				<Protocol>
+					http
+				</Protocol>
+				<InterfaceAddress/>
+				<ConfigMode>
+					auto
+				</ConfigMode>
+				<Port>
+					9800
+				</Port>
+				<ProxyOff/>
+				<ServerOff/>
+			</jxta:TransportAdvertisement>
+		</Parm>
+	</Svc>
+	<Svc>
+		<MCID>
+			urn:jxta:uuid-DEADBEEFDEAFBABAFEEDBABE0000000E05
+		</MCID>
+		<Parm>
+			<isOff/>
+		</Parm>
+	</Svc>
+	<Svc>
+		<MCID>
+			urn:jxta:uuid-DEADBEEFDEAFBABAFEEDBABE0000000605
+		</MCID>
+		<Parm type="jxta:RdvConfig" config="client" xmlns:jxta="http://jxta.org">
+			<seeds useOnlySeeds="true">
+				<addr>
+					http://66.135.32.78:9700
+				</addr>
+				<addr>
+					tcp://66.135.32.78:9701
+				</addr>
+			</seeds>
+		</Parm>
+	</Svc>
+	<Svc>
+		<MCID>
+			urn:jxta:uuid-DEADBEEFDEAFBABAFEEDBABE0000000F05
+		</MCID>
+		<Parm type="jxta:RelayConfig" client="true" xmlns:jxta="http://jxta.org">
+			<client>
+				<seeds useOnlySeeds="true">
+					<addr>
+						http://66.135.32.78:9700
+					</addr>
+					<addr>
+						tcp://66.135.32.78:9701
+					</addr>
+				</seeds>
+			</client>
+			<server/>
+		</Parm>
+	</Svc>
+	<Svc>
+		<MCID>
+			urn:jxta:uuid-DEADBEEFDEAFBABAFEEDBABE0000000905
+		</MCID>
+		<Parm>
+			<jxta:TransportAdvertisement xmlns:jxta="http://jxta.org" type="jxta:TCPTransportAdvertisement">
+				<Protocol>
+					tcp
+				</Protocol>
+				<ConfigMode>
+					auto
+				</ConfigMode>
+				<Port>
+					9801
+				</Port>
+				<MulticastAddr>
+					224.0.1.85
+				</MulticastAddr>
+				<MulticastPort>
+					1234
+				</MulticastPort>
+				<MulticastSize>
+					16384
+				</MulticastSize>
+			</jxta:TransportAdvertisement>
+		</Parm>
+	</Svc>
+</jxta:CP>

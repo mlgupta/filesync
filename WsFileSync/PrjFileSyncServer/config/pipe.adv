@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE jxta:PipeAdvertisement>
+<jxta:PipeAdvertisement xmlns:jxta="http://jxta.org">
+	<Id>
+				urn:jxta:uuid-CE5B3D138EA946D8BFB2FCC9F0F3E90D93EA579CCAE243439830EFEA6D6A2ABB04
+
+	</Id>
+	<Type>
+		JxtaUnicast
+	</Type>
+	<Name>
+		FileSync	
+	</Name>
+</jxta:PipeAdvertisement>
+
